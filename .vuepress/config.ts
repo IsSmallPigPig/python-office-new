@@ -42,6 +42,7 @@ export default defineUserConfig({
     style: "@vuepress-reco/style-default",
     logo: "https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/icon2.jpg",
     author: "晚枫",
+    base: "python-office-new",
     authorAvatar: "/head.png",
     docsRepo: "https://gitee.com/CoderWanFeng/python-office.com",
     docsBranch: "main",
