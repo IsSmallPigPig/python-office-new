@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-049ca5a7","path":"/office/datav.html","title":"数据可视化","lang":"en-US","frontmatter":{},"headers":[],"git":{"createdTime":1692603956000,"updatedTime":1692603956000,"contributors":[{"name":"ShiYiZhiHanZhuXhuYa","email":"3552354372@qq.com","commits":1}]},"filePathRelative":"office/datav.md"}');export{a as data};

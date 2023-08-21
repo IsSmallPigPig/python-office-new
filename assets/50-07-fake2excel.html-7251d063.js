@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1def3232","path":"/course/docs/50-07-fake2excel.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{"createdTime":1692603956000,"updatedTime":1692603956000,"contributors":[{"name":"ShiYiZhiHanZhuXhuYa","email":"3552354372@qq.com","commits":1}]},"filePathRelative":"course/docs/50-07-fake2excel.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-c35c2990","path":"/office/tools.html","title":"工具","lang":"en-US","frontmatter":{},"headers":[],"git":{"createdTime":1692603956000,"updatedTime":1692603956000,"contributors":[{"name":"ShiYiZhiHanZhuXhuYa","email":"3552354372@qq.com","commits":1}]},"filePathRelative":"office/tools.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-a26460ca","path":"/ref/ref.html","title":"参考资料","lang":"en-US","frontmatter":{},"headers":[],"git":{"createdTime":1692603956000,"updatedTime":1692603956000,"contributors":[{"name":"ShiYiZhiHanZhuXhuYa","email":"3552354372@qq.com","commits":1}]},"filePathRelative":"ref/ref.md"}');export{e as data};

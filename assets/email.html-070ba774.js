@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-66f34bd2","path":"/office/email.html","title":"Email","lang":"en-US","frontmatter":{},"headers":[],"git":{"createdTime":1692603956000,"updatedTime":1692603956000,"contributors":[{"name":"ShiYiZhiHanZhuXhuYa","email":"3552354372@qq.com","commits":1}]},"filePathRelative":"office/email.md"}');export{e as data};

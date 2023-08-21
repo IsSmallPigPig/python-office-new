@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-4318d113","path":"/docs/office/ocr.html","title":"OCR","lang":"en-US","frontmatter":{},"headers":[],"git":{"createdTime":1692585437000,"updatedTime":1692585437000,"contributors":[{"name":"ShiYiZhiHanZhuXhuYa","email":"3552354372@qq.com","commits":1}]},"filePathRelative":"docs/office/ocr.md"}');export{e as data};

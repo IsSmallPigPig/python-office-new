@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-27a08bdc","path":"/office/excel.html","title":"Excel","lang":"en-US","frontmatter":{},"headers":[],"git":{"createdTime":1692603956000,"updatedTime":1692603956000,"contributors":[{"name":"ShiYiZhiHanZhuXhuYa","email":"3552354372@qq.com","commits":1}]},"filePathRelative":"office/excel.md"}');export{e as data};
