@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-175a046f","path":"/docs/guide/office.html","title":"下载和安装","lang":"en-US","frontmatter":{},"headers":[],"git":{"createdTime":1692585437000,"updatedTime":1692585437000,"contributors":[{"name":"ShiYiZhiHanZhuXhuYa","email":"3552354372@qq.com","commits":1}]},"filePathRelative":"docs/guide/office.md"}');export{e as data};
