@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-049ca5a7\",\"path\":\"/office/datav.html\",\"title\":\"数据可视化\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[],\"git\":{},\"filePathRelative\":\"office/datav.md\"}")

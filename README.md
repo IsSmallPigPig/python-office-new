@@ -10,8 +10,8 @@ bannerBrand:
   description: 为自动化而生
   tagline: 使用 Python 为您的工作提高效率；一键搞定，轻松简单
   buttons:
-    - { text: 视频教程, link: 'docs/video/video.html' }
-    - { text: 下载软件, link: 'docs/contributor/contributor.md', type: 'plain' }
+    - { text: 视频教程, link: '/video/video.html' }
+    - { text: 下载软件, link: '/contributor/contributor.html', type: 'plain' }
   socialLinks:
     - { icon: 'LogoGithub', link: 'https://github.com/CoderWanFeng/python-office' }
     - { icon: 'BrandGithub', link: 'https://github.com/recoluan' }

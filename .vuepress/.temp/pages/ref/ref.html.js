@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-a26460ca\",\"path\":\"/ref/ref.html\",\"title\":\"参考资料\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[],\"git\":{},\"filePathRelative\":\"ref/ref.md\"}")

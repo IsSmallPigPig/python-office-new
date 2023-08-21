@@ -40,10 +40,10 @@ export default defineUserConfig({
   ],
   theme: recoTheme({
     style: "@vuepress-reco/style-default",
-    logo: "/logo.png",
+    logo: "https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/icon2.jpg",
     author: "晚枫",
     authorAvatar: "/head.png",
-    docsRepo: "https://github.com/vuepress-reco/vuepress-theme-reco-next",
+    docsRepo: "https://gitee.com/CoderWanFeng/python-office.com",
     docsBranch: "main",
     docsDir: "example",
     lastUpdatedText: "",
@@ -88,30 +88,30 @@ export default defineUserConfig({
       ],
     },
     series: {
-      "/docs": [
+      "/": [
         {
           text: "入门指南",
-          children: ["/docs/guide/introduction.html", "/docs/guide/allFunc.html", "/docs/guide/office.html", "/docs/guide/requirement.html"],
+          children: ["/guide/introduction.html", "/guide/allFunc.html", "/guide/office.html", "/guide/requirement.html"],
         },
         {
           text: "原创课程",
-          children: ["/docs/course/50-python-office.html"],
+          children: ["/course/50-python-office.html"],
         },
         {
           text: "核心功能",
-          children: ["/docs/office/word.html", "/docs/office/excel.html", "/docs/office/ppt.html", "/docs/office/pdf.html", "/docs/office/email.html", "/docs/office/file.html", "/docs/office/image.html", "/docs/office/ocr.html", "/docs/office/tools.html", "/docs/office/video.html", "/docs/office/web.html", "/docs/office/robot.html", "/docs/office/datav.html", "/docs/office/finance.html"],
+          children: ["/office/word.html", "/office/excel.html", "/office/ppt.html", "/office/pdf.html", "/office/email.html", "/office/file.html", "/office/image.html", "/office/ocr.html", "/office/tools.html", "/office/video.html", "/office/web.html", "/office/robot.html", "/office/datav.html", "/office/finance.html"],
         },
         {
           text: "视频课程",
-          children: ["/docs/video/video.html", "/docs/video/poocr.html"],
+          children: ["/video/video.html", "/video/poocr.html"],
         },
         {
           text: "关于作者",
-          children: ["/docs/contributor/contributor.html", "/docs/contributor/about.html"],
+          children: ["/contributor/contributor.html", "/contributor/about.html"],
         },
         {
           text: "相关文档",
-          children: ["/docs/ref/git.html", "/docs/ref/log.html", "/docs/ref/ref.html", "/docs/ref/qaq.html"],
+          children: ["/ref/git.html", "/ref/log.html", "/ref/ref.html", "/ref/qaq.html"],
         },
       ],
     },
@@ -122,7 +122,7 @@ export default defineUserConfig({
         icon: "Download",
         children: [
           { text: "软件", link: "http://python4office.cn/python-download/" },
-          { text: "源码", link: "/docs/contributor/contributor.md" },
+          { text: "源码", link: "/contributor/contributor.md" },
         ],
       },
       {

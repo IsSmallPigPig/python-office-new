@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-6faea855\",\"path\":\"/office/ocr.html\",\"title\":\"OCR\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[],\"git\":{},\"filePathRelative\":\"office/ocr.md\"}")

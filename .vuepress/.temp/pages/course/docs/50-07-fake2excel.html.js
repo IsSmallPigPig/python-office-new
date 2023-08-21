@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-1def3232\",\"path\":\"/course/docs/50-07-fake2excel.html\",\"title\":\"\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[],\"git\":{},\"filePathRelative\":\"course/docs/50-07-fake2excel.md\"}")
